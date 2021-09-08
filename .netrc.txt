@@ -1,0 +1,7 @@
+machine my.server1.com
+login yourUserName
+password yourPassword
+
+machine my.server2.com
+login yourUserName
+password yourPassword
